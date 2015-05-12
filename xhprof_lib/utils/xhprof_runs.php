@@ -129,7 +129,7 @@ CREATE TABLE `details` (
   KEY `wt` (`wt`),
   KEY `pmu` (`pmu`),
   KEY `timestamp` (`timestamp`)
-) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+) DEFAULT CHARSET=utf8;
   
 */
 
